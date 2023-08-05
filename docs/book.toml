@@ -1,0 +1,6 @@
+[book]
+authors = ["fgclue"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ColorXYZ Documentation"
